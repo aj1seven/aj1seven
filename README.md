@@ -8,27 +8,51 @@ I'm a passionate developer who loves building intelligent, scalable web applicat
 
 ## 🚀 Tech Stack & Tools
 
-**Languages:** JavaScript, Python, Java  
-**Frontend:** React.js, Redux, Material UI, Tailwind CSS  
-**Backend:** Node.js, Express.js, MongoDB, REST APIs  
-**DevOps & Cloud:** Docker, Jenkins, GitHub Actions, AWS Cloud, Linux, Shell Scripting  
-**AI/ML Tools:** OpenAI SDK, LangGraph, Playwright, CNN, crewAI  
-**Design & Tools:** Figma, Framer, Gradio, Postman
+<div align="center">
+
+### 💻 Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
 
 ---
 
-## 💼 Experience
+### 🌐 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" alt="Redux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="40" alt="Material UI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwind CSS"/>
 
-**DevOps Intern @ Ladybird Web Solutions Pvt Ltd**  
-*May 2025 – Aug 2025*  
-- Automated Linux server maintenance using Bash, reducing manual errors by 30%  
-- Containerized 5+ production apps with Docker & improved CI/CD with Jenkins + GitHub Actions  
-- Achieved 40% faster deployment cycles and increased uptime
+---
 
-**Research Intern @ Chennai Institute of Technology**  
-*Nov 2024 – Dec 2024*  
-- Built a deep learning model (CNN) to restore historical art — increased restoration accuracy by 30%  
-- Collaborated on the university's CulturAI initiative for AI in heritage preservation
+### 🛠 Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white" height="25"/>
+
+---
+
+### ⚙️ DevOps & Cloud  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="40" alt="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40" alt="AWS"/>
+
+---
+
+### 🧠 AI & Tools  
+<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="40" width="40" alt="OpenAI"/>
+<img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" height="40" width="40" alt="LangChain"/>
+<img src="https://avatars.githubusercontent.com/u/16236543?s=200&v=4" height="40" width="40" alt="Playwright"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux"/>
+
+</div>
 
 ---
 
@@ -45,17 +69,6 @@ An AI agent that automates planning, search, and execution of tasks, reducing us
 ### 🛒 [StyleHub](https://github.com/aj1seven/Stylehub) – MERN E-commerce with Docker  
 > *React | Node.js | Express | MongoDB | Docker*  
 Role-based platform for sellers & customers with JWT auth, seller dashboards, and secure checkout. Deployed via Docker, boosting seller productivity by 40%.
-
----
-
-## 📜 Certifications
-
-- ✅ **AWS Certified Cloud Practitioner**
-- ✅ Google UX Design
-- ✅ Cisco – Introduction to Cybersecurity
-- ✅ MongoDB for Students
-- ✅ Figma UI/UX Design Essentials
-- ✅ Celonis Foundations
 
 ---
 
