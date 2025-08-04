@@ -69,6 +69,11 @@ Role-based platform for sellers & customers with JWT auth, seller dashboards, an
 
 ---
 
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aj1sevn?theme=dark&font=Source%20Code%20Pro&ext=contest)](https://leetcode.com/aj1sevn)
+
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aj1seven&show_icons=true&theme=radical)
